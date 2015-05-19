@@ -1,2 +1,4 @@
 # unittestLog
 unittest的log提取和结果展示
+test.py以及test1.py为使用例子
+运行完例子后运行caseGet即可生成对应的结果页面
